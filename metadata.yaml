@@ -1,0 +1,32 @@
+_repo: Memorials-of-Old-LondonVolume-I_28742
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Ditchfield, P. H. (Peter Hampson)
+    aliases:
+    - Ditchfield, Peter Hampson
+    - Ditchfield, Peter H. (Peter Hampson)
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '2767'
+    url: http://www.gutenberg.org/2009/agents/2767
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2009-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28742'
+  lccn: 09005991
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'London (England) -- History'
+- !lcsh 'London (England) -- Antiquities'
+title: Memorials of Old London. Volume 1 (of 2)
+url: http://www.gutenberg.org/ebooks/28742
